@@ -24,8 +24,10 @@ tags: [TAG]     # optional
 ---
 ```
 
-Check the `_data/authors.yml` for author id. It has been set up to use everyone's first name.
+- Check the `_data/authors.yml` for author id. It has been set up to use everyone's first name.
 
-Put your domain name in categories i.e software/electrical.
+- Put your domain name as the top category i.e software/electrical. 
 
-Push changes to the repo as usual. Pull before you make changes to make your life easy.
+- Make sub categories as and when required for projects, ideas etc.
+
+- Push changes to the repo as usual. Pull before you make changes to make your life easy.
